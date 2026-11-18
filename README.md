@@ -2,6 +2,7 @@
 
 A [Claude Code skill](https://docs.claude.com/en/docs/claude-code/skills) for developing
 resources on **WHIP** — the FiveM framework built around [`whip_core`](https://github.com/WHIPFX).
+Credit:  [`fozenistaken`](https://github.com/fozenistaken/whip-skill)
 
 It teaches the agent the satellite contract (`@whip_core/lib/satellite.lua`, `Whip.register`,
 `Whip.core`), the hard rules (server owns state, `SecureEvent` over `RegisterNetEvent`, manifest
